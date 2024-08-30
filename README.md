@@ -55,6 +55,7 @@ pre=scaler.inverse_transform(prediction)
 print(f"Predicted value: {pre}")
 ```
 
+<br>
 ## Output:
 ![image](https://github.com/user-attachments/assets/1e941c70-367e-47d4-b0c3-be0b1edd3380)
 
